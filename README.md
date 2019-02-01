@@ -6,7 +6,7 @@
 
 ### 一、使用示例
 
-![](http://xiejun-image.oss-cn-hangzhou.aliyuncs.com/hexo/cropper.gif)
+![](http://xiejun-image.oss-cn-hangzhou.aliyuncs.com/hexo/%E5%9B%BE%E7%89%87%E8%A3%81%E5%89%AA.png)
 
 ### 二、组件功能
 
